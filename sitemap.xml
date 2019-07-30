@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>http://kdh3515.github.io/DevOps-git/credit.html</loc>
+		<lastmod>2019-07-30</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
 		<loc>http://kdh3515.github.io/DevOps-git/alive.html</loc>
 		<lastmod>2019-07-30</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>http://kdh3515.github.io/DevOps-git/index.html</loc>
-		<lastmod>2019-07-30</lastmod>
-		<changefreq>daily</changefreq>
-	</url>
-	<url>
-		<loc>http://kdh3515.github.io/DevOps-git/credit.html</loc>
 		<lastmod>2019-07-30</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
